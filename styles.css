@@ -1,0 +1,44 @@
+* {
+   margin-left: 8px;
+  font-family: 'Kanit', sans-serif;
+}
+body {
+    background-image: url("https://i.ibb.co/dpJ1kRm/Screen-Shot-2019-06-13-at-2-50-50-PM.png-3W9zUWU057N7paA=w640-h400-e365");
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Anton', s5px 5pxrif;
+    text-shadow: 5px 5x 25x black;
+    border: solid 3px #5b090a;
+    background-color:white;
+
+}
+
+div {
+    display: flex;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    font-size:20px;
+    background-color:red;
+}
+
+h2{font-size:25px;}
+
+input{font-size:20px;}
+
+#image {
+  height: 350px;
+  width: 275px;
+}
+
+#description {
+  color: white;
+  font-size: 20px;
+}
